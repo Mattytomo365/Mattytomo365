@@ -1,12 +1,5 @@
-<<<<<<< HEAD
 ![Header](github-header-image.png)
-=======
-<<<<<<< HEAD
 
-=======
-![Header](github-header-image.png)
->>>>>>> 8b53c3c (<Changes to readme>)
->>>>>>> temp-fix
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mattytomo365.Mattytomo365)
 
