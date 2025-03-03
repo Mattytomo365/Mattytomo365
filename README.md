@@ -31,8 +31,7 @@ Gaining industry experience is also really important to me, so I will be complet
 ## GitHub Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
 
- ## Contact details
- ## <a href="www.linkedin.com/in/matthew-tomlinson365">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 
 
