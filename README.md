@@ -26,9 +26,11 @@ When I'm not coding, I love to run, read, and create digital art. Photography, l
 ### Current Projects and Learning Goals
 I'm not currently working on any new personal projects. Instead, I'm building and refining my professional portfolio, I'm currently at the stage of documenting my previous projects.
 
-However, I am currently working on a prototpye for a simple educational game as part of my Professional Practice module, this is a group project. It is being built in the PyCharm IDE, with the use of the PyGame library. It will be added to my repositories when completed.
+I have recently finishing developing and documenting a prototpye for a simple educational game as part of my Professional Practice module, this is a group project. It was built in the PyCharm IDE, with the use of the PyGame library.
 
 I'm taking the time to learn new things through online courses. I aim to gain a good level of understanding on all the different main sectors of computer science. Right now, I'm interested in learning about systems/software development, cybersecurity, and AI.
+
+I am actively brainstorming ideas for small and large personal projects to develop over the course of the next few months.
 
 Gaining industry experience is also really important to me, so I will be completing multiple placements (virtual and in-person) throughout this year.
 
