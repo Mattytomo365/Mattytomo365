@@ -28,9 +28,7 @@ I'm not currently working on any new personal projects. Instead, I'm building an
 
 I have recently completed a data analysis project, where I applied knowledge gained in a recent module to perform sentiment analysis and collocation extraction using multiple approaches. I recognise there is still room for the addition of features in the future though.
 
-I'm taking the time to learn new things through online courses. I aim to gain a good level of understanding on all the different main sectors of computer science. Right now, I'm interested in learning about systems/software development, cybersecurity, and AI.
-
-I am actively brainstorming ideas for small and large personal projects to develop over the course of the next few months.
+I'm currently working on a Student Planner application which makes changes to a user's Google Calender through leveraging the Google Calendar API, allowing me to apply my knowledge of APIs and their usage in different contexts. Please refer to my `Student-Planner` repository for further details.
 
 Gaining industry experience is also really important to me, so I will be completing multiple placements (virtual and in-person) throughout this year.
 
