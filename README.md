@@ -30,7 +30,7 @@ I have recently completed a data analysis project, where I applied knowledge gai
 
 I'm currently working on a Student Planner application which makes changes to a user's Google Calender through leveraging the Google Calendar API, allowing me to apply my knowledge of APIs and their usage in different contexts. Please refer to my `Student-Planner` repository for further details.
 
-Gaining industry experience is also really important to me, so I will be completing multiple placements (virtual and in-person) throughout this year.
+Gaining industry experience is also really important to me, I am currently completing a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. As part of this placement I am developing a database management application to reduce the administrative workload for members of staff, please refer to my `Volunteer-Management-System` for more details.
 
 ## GitHub Stats
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
