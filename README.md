@@ -35,7 +35,5 @@ Gaining industry experience is also really important to me, I am currently compl
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattytomo365)](https://github.com/Mattytomo365/github-readme-stats)
-
 
 
