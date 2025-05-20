@@ -33,8 +33,9 @@ I'm currently working on a Student Planner application which makes changes to a 
 Gaining industry experience is also really important to me, I am currently completing a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. As part of this placement I am developing a database management application to reduce the administrative workload for members of staff, please refer to my `Volunteer-Management-System` for more details.
 
 ## GitHub Stats
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mattytomo365)](https://github.com/Mattytomo365/github-readme-stats)
 
 
 
