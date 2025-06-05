@@ -24,7 +24,6 @@ When I'm not coding, I love to run, read, and create digital art. Photography, l
 * Professional Practice
 
 ### Current Projects and Learning Goals
-I'm not currently working on any new personal projects. Instead, I'm building and refining my professional portfolio, I'm currently at the stage of documenting my previous projects.
 
 I have recently completed a data analysis project, where I applied knowledge gained in a recent module to perform sentiment analysis and collocation extraction using multiple approaches. I recognise there is still room for the addition of features in the future though.
 
