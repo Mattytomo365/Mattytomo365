@@ -25,7 +25,7 @@ When I'm not coding, I love to run, read, and create digital art. Photography, l
 
 ### Current Projects and Learning Goals
 
-I have recently completed a data analysis project, where I applied knowledge gained in a recent module to perform sentiment analysis and collocation extraction using multiple approaches. I recognise there is still room for the addition of features in the future though.
+I am currently planning a full stack .NET Core web application project which leverages an integrated machine learning model to predict the sales a local restaurant will generate on a specified day, taking a multitude of factors into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment.
 
 I'm currently working on a Student Planner application which makes changes to a user's Google Calender through leveraging the Google Calendar API, allowing me to apply my knowledge of APIs and their usage in different contexts. Please refer to my `Student-Planner` repository for further details.
 
