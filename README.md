@@ -19,9 +19,7 @@ When I'm not coding, I love to run, read, and create digital art. Photography, l
 
 ## What I'm Currently Learning
 ### Current Modules
-* Introduction to Security
-* Data Analytics
-* Professional Practice
+This will be updated once I start my third year.
 
 ### Current Projects and Learning Goals
 
