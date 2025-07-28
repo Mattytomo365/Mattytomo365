@@ -10,9 +10,9 @@ I'm paritcularly interested in Software Development & Machine Learning, however,
 ### Skills and Experience
 I have experience in Python, C#, and Java. I also have exposure to HTML, CSS, and JavaScript.
 
-Outside of computer science-related skills, I have strong communication, teamwork, leadership, and time management skills. I have a part-time job as a commis waiter in Gaucho, Liverpool, where I put these skills into practice.
+Previous experience in the hospitality industry has allowed me to form more interpersonal & social skills like communication, teamwork, leadership, and time management.
 
-Extra-curricular activities like a project placement/work experience placements, and previously being a commitee member of my university's Coding Club allow me to develop these skills.
+Extra-curricular activities like projects, placements/work experience, and societies at university allow me to develop these skills.
 
 ### Hobbies and Interests
 When I'm not coding, I love to run, read, create digital art, and relax, which is most important for me to maintain a strong work-life balance. Learning new things also allows me to use spare time to my advantage.
