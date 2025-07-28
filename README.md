@@ -5,7 +5,7 @@
 ## About me
 Second year computer science student at Edge Hill University, with strong ambitions for a career in computer science. I'm currently in the stage of exploring different areas and roles in this vast industry, finding where i fit best.
 
-I'm paritcularly interested in Software Development & Machine Learning, however, I am open to expanding my interests even further.
+I'm paritcularly interested in software development & machine learning, however, I am open to expanding my interests even further.
 
 ### Skills and Experience
 I have experience in Python, C#, and Java. I also have exposure to HTML, CSS, and JavaScript.
