@@ -23,7 +23,7 @@ This will be updated once I start my third year.
 
 ### Current Projects and Learning Goals
 
-I am currently planning a full stack React & .NET web application project which leverages an integrated machine learning model to predict the sales of a given week in the hospitality industry, restaurants specifically. A multitude of factors will be taken into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment into a local restaurant in exchange for utilisng their data. Please refer to my `ML-Restaurant-Forecasting-System` for further details.
+I am currently planning a full stack React & .NET web application project which leverages an integrated machine learning model to predict the sales of a given week in the hospitality industry, restaurants specifically. A multitude of factors will be taken into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment into a local restaurant in exchange for utilisng their data. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
 
 I'm currently in the deployment stage of a Student Planner application which makes changes to a user's Google Calender through leveraging the Google Calendar API, allowing me to apply my knowledge of APIs and their usage in different contexts. This application is currently being verified with Google. Please refer to my `Student-Planner` repository for further details.
 
