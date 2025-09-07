@@ -3,33 +3,47 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mattytomo365.Mattytomo365)
 
 ## About me
-Second year computer science student at Edge Hill University, with strong ambitions for a career in computer science. I'm currently in the stage of exploring different areas and roles in this vast industry, finding where i fit best.
+Final year CS student at Edge Hill University with a keen interest in full-stack development & machine learning.
 
-I'm paritcularly interested in software development & machine learning, however, I am open to expanding my interests even further.
+Seeking 2026 graduate software roles or placements nationwide
 
-### Skills and Experience
-I have experience in Python, C#, and Java. I also have exposure to HTML, CSS, and JavaScript.
 
-Previous experience in the hospitality industry has allowed me to form more interpersonal & social skills like communication, teamwork, leadership, and time management.
+### Experience
+**Languages**
+- .NET
+- Python
+- Java
+- HTML & CSS
 
-Extra-curricular activities like projects, placements/work experience, and societies at university allow me to develop these skills.
+**Frameworks**
+- Angular
+- ASP.NET Web API
 
-### Hobbies and Interests
-When I'm not coding, I love to run, read, create digital art, and relax, which is most important for me to maintain a strong work-life balance. Learning new things also allows me to use spare time to my advantage.
+---
 
-## What I'm Currently Learning
+## Academics
+
 ### Current Modules
-This will be updated once I start my third year.
+- Statistical Modelling
+- Interface Programming
+- Research & Development Project
 
-### Current Projects and Learning Goals
+### Extra-cirricular
+Alongside my projects, I regularly tackle Leetcode challenges to maintain & improve my coding proficiency across my strongest programming languages. You can find my profile [here](https://leetcode.com/u/Mattytomo365/), and my code in `LeetCode Solutions`.
 
-I am currently planning a full stack React & .NET web application project which leverages an integrated machine learning model to predict the sales of a given week in the hospitality industry, restaurants specifically. A multitude of factors will be taken into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment into a local restaurant in exchange for utilisng their data. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+Gaining industry experience is also really important to me, I have recently completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
-I'm currently in the deployment stage of a Student Planner application which makes changes to a user's Google Calender through leveraging the Google Calendar API, allowing me to apply my knowledge of APIs and their usage in different contexts. This application is currently being verified with Google. Please refer to my `Student-Planner` repository for further details.
+---
 
-Alongside my projects, I regularly tackle Leetcode challenges to maintain & improve my coding proficiency across my strongest programming languages. You can find my profile [here](https://leetcode.com/u/Mattytomo365/).
+## Projects
 
-Gaining industry experience is also really important to me, I have recently completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff, please refer to my `Database-Management-System` for more details.
+### Developing
+**ML Restaurant Forecasting System:** I am currently planning a full stack React & .NET web application project which leverages an integrated machine learning model to predict the sales of a given week in the hospitality industry, restaurants specifically. A multitude of factors will be taken into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment into a local restaurant in exchange for utilisng their data. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+
+### Deployed
+**Student Planner:** Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar with the Google Calendar API. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
+
+**Database Management System:** Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
