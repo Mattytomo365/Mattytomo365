@@ -38,7 +38,7 @@ Gaining industry experience is also really important to me, I have recently comp
 ## Projects
 
 ### Developing
-**ML Restaurant Forecasting System:** I am currently planning a full stack React & .NET web application project which leverages an integrated machine learning model to predict the sales of a given week in the hospitality industry, restaurants specifically. A multitude of factors will be taken into account in order to achive the best accuracy. This application is also in discussion for potential real-world deployment into a local restaurant in exchange for utilisng their data. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+**ML Restaurant Forecasting System:** A capstone web application, .NET backend & Angular frontend, leveraging machine learning to accurately forecast restaurant sales. The goal is to improve staffing and inventory decisions, I'm also working towards a pilot with a local restaurant. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
 
 ### Deployed
 **Student Planner:** Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar with the Google Calendar API. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
