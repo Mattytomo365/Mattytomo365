@@ -5,7 +5,7 @@
 ## About me
 Final year CS student at Edge Hill University with a keen interest in full-stack development & machine learning.
 
-Seeking 2026 graduate software roles or placements nationwide
+Seeking 2026 graduate software roles or placements nationwide.
 
 
 ### Experience
@@ -38,12 +38,14 @@ Gaining industry experience is also really important to me, I have recently comp
 ## Projects
 
 ### Developing
-**ML Restaurant Forecasting System:** A capstone web application, .NET backend & Angular frontend, leveraging machine learning to accurately forecast restaurant sales. The goal is to improve staffing and inventory decisions, I'm also working towards a pilot with a local restaurant. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+**ML Restaurant Forecasting System**: A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning to accurately forecast restaurant sales. The goal is to improve staffing and inventory decisions, I'm also working towards a pilot with a local restaurant. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+
+**Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Please refer to my `Bartering-Platform` repository for further details.
 
 ### Deployed
-**Student Planner:** Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
+**Student Planner**: Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
 
-**Database Management System:** Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
+**Database Management System**: Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
