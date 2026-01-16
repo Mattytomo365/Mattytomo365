@@ -31,8 +31,8 @@ Seeking 2026 graduate software roles or placements nationwide.
 ## Academics
 
 ### Current Modules
-- Statistical Modelling
-- Interface Programming
+- Secure and Complex System
+- Distributed Systems
 - Research & Development Project
 
 ### Extra-cirricular
@@ -46,11 +46,11 @@ Gaining industry experience is also really important to me, I have completed a p
 
 ### Developing
 
-**Experimental evaluation of forecasting approaches to restaurant sales**: Implementation and comparative evaluation of forecasting restaurant sales using Prophet, XGBoost, and Lasso. Models trained on cleaned & preprocessed data, fine-tuned and cross-validated, with appropriate performance metrics reported and compared; feature importance determined using ablation tests and permutation importance. Top model will be utilised for a full-stack forecasting platform.
+**Experimental evaluation of forecasting approaches to restaurant sales**: Implementation and comparative evaluation of forecasting restaurant sales using Prophet, XGBoost, and Lasso. Models trained on cleaned & preprocessed data, fine-tuned and cross-validated, with appropriate performance metrics reported and compared; feature importance determined using ablation tests and permutation importance. Top model will be utilised for a full-stack forecasting platform (`Hospitality-Sales-Forecasting-Platform`).
 
 **Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Please refer to my `Bartering-Platform` repository for further details.
 
-**ML Restaurant Forecasting System** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning (approach established from comparative forecasting experiments in another project)to accurately forecast restaurant sales. The goal is to improve staffing and inventory decisions, I'm also working towards a pilot with a local restaurant. Please refer to my `ML-Restaurant-Forecasting-System` repository for further details.
+**Hospitality Sales Forecasting Platform** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning (approach established from comparative forecasting experiments in another project)to accurately forecast restaurant sales. The goal is to improve staffing and inventory decisions, I'm also working towards a pilot with a local restaurant. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
 
 ### Deployed
 **Student Planner**: Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
