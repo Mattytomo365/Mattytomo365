@@ -40,6 +40,8 @@ Alongside my projects, I regularly tackle Leetcode challenges to maintain & impr
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
+I am currently working for VuelaNova as a full-stack engineer, tasked with the end-to-end development of their website with regular stakeholder engagement, contributing towards an Agile team.
+
 ---
 
 ## Projects
@@ -56,9 +58,6 @@ Gaining industry experience is also really important to me, I have completed a p
 **Student Planner**: Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
 
 **Database Management System**: Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
-
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mattytomo365&layout=compact)
 
 
 
