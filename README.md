@@ -48,13 +48,14 @@ I am currently working for VuelaNova as a full-stack engineer, tasked with the e
 
 ### Developing
 
-**Comparative evaluation of forecasting approaches for hospitality sales**: Implementation and comparative evaluation of forecasting hospitality sales using Prophet, XGBoost, and Lasso. Models trained on cleaned & preprocessed data, fine-tuned and cross-validated, with appropriate performance metrics reported and compared; feature importance determined using ablation tests and permutation importance. Top model will be utilised for a full-stack forecasting platform (`Hospitality-Sales-Forecasting-Platform`).
-
 **Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Please refer to my `Bartering-Platform` repository for further details.
 
 **Hospitality Sales Forecasting Platform** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning (approach established from comparative forecasting experiments in another project)to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
 
 ### Deployed
+
+**Comparative evaluation of forecasting approaches for hospitality sales**: Implementation and comparative evaluation of forecasting hospitality sales using SARIMAX, XGBoost, and Lasso. Models trained on cleaned & preprocessed data, using identical expanding-window time-aware evaluation protocols, with appropriate MAE, RMSE, and MASE metrics reported and compared alongside forecasting behaviour and redisudal diagnostics. Additional analyses include imputation strategy analysis, training optimisation analysis, and feature-contribution analysis. Please refer to my `Comparative-Forecasting-Analysis` repository for further details.
+
 **Student Planner**: Python & Tkinter project centred around turning a student's day into a focused checklist, syncing tasks & assignments with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. Please refer to my `Student-Planner` repository for further details.
 
 **Database Management System**: Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
