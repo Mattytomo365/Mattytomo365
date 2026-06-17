@@ -3,40 +3,28 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mattytomo365.Mattytomo365)
 
 ## About me
-Final year CS student at Edge Hill University with a keen interest in full-stack development & machine learning.
+I'm a 1st class BSc Computer Science graduate with a keen interest in full-stack development & machine learning.
 
 Seeking 2026 graduate software roles or placements nationwide.
 
 
-### Experience
-**Languages**
-- .NET
-- Python
-- Java
-- HTML & CSS
-- SQL (MySQL & SQL Server)
+### Tech Stack
+**Languages:** C#, Python, Java, HTML & CSS, SQL (MySQL & SQL Server)
 
-**Frameworks**
-- Angular
-- ASP.NET Web API
+**Web Frameworks:** Angular, ASP.NET
 
-**Architecures & Practices**
-- Clean Architecture
-- Command Query Responsibility Segregation (CQRS)
-- Agile Kanban - iterative development
-- Unit/Integration/E2E testing
+**Data & Machine Learning:** Pandas, Matplotlib, Numpy, Sci-kit Learn, supervised learning, exploratory analysis and preprocessing
+
+**Architecures & Practices:** Clean Architecture, Command Query Responsibility Segregation (CQRS), Agile development, Unit/Integration/E2E testing
+
+**Tools:** Git, RabbitMQ, Docker, JWT authentication
 
 ---
 
-## Academics
+## My Focus
+I'm actively expanding my technical portfolio and commercial experience through personal and industry projects across data analysis, machine learning, and full-stack web development.
 
-### Current Modules
-- Secure and Complex System
-- Distributed Systems
-- Research & Development Project
-
-### Extra-cirricular
-Alongside my projects, I regularly tackle Leetcode challenges to maintain & improve my coding proficiency across my strongest programming languages. You can find my profile [here](https://leetcode.com/u/Mattytomo365/), and my code in `LeetCode Solutions`.
+My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge across maintainability, scalability, DevOps practices, and cloud deployment. I am particularly interested in projects that combine data analytics and management with web development, allowing me to build more practical, robust, and deployable software solutions.
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
