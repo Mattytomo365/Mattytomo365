@@ -24,7 +24,7 @@ Seeking 2026 graduate software roles or placements nationwide.
 ## My Focus
 I'm actively expanding my technical portfolio and commercial experience through personal and industry projects across data analysis, machine learning, and full-stack web development.
 
-My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge across maintainability, scalability, DevOps practices, and cloud deployment. I am particularly interested in projects that combine data analytics and management with web development, allowing me to build more practical, robust, and deployable software solutions.
+My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge across maintainability, scalability, CI/CD, and cloud deployment. I am particularly interested in projects that combine data analytics and management with web development, allowing me to build more practical, robust, and deployable software solutions.
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
