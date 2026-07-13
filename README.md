@@ -36,9 +36,9 @@ I am currently working for VuelaNova as a full-stack engineer, tasked with the e
 
 ### Developing
 
-**Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Please refer to my `Bartering-Platform` repository for further details.
+**Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. The project is currently going through a unit testing phase before I plan to add CI/CD practices using GitHub Actions. Please refer to my `Bartering-Platform` repository for further details.
 
-**Hospitality Sales Forecasting Platform** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning (approach established from comparative forecasting experiments in another project)to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
+**Hospitality Sales Forecasting Platform** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning approaches analysed within my Comparative Forecasting Analysis to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
 
 ### Deployed
 
