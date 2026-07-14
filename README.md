@@ -3,9 +3,9 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mattytomo365.Mattytomo365)
 
 ## About me
-I'm a 1st class BSc Computer Science graduate with a keen interest in full-stack development & machine learning.
+I'm a 1st-Class BSc Computer Science graduate with a keen interest in pairing full-stack development & applied machine learning to produce reliable software solutions which solve real business problems.
 
-Seeking 2026 graduate software roles or placements nationwide.
+Seeking entry-level/graduate tech-roles, freelance opportunities, and placements nationwide.
 
 
 ### Tech Stack
@@ -24,7 +24,7 @@ Seeking 2026 graduate software roles or placements nationwide.
 ## My Focus
 I'm actively expanding my technical portfolio and commercial experience through personal and industry projects across data analysis, machine learning, and full-stack web development.
 
-My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge across maintainability, scalability, CI/CD, and cloud deployment. I am particularly interested in projects that combine data analytics and management with web development, allowing me to build more practical, robust, and deployable software solutions.
+My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge, more specifically across the maintainability and scalability of systems, CI/CD, and cloud deployment.
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
@@ -33,6 +33,8 @@ I am currently working for VuelaNova as a full-stack engineer, tasked with the e
 ---
 
 ## Projects
+
+Across my projects, I am particularly interested in understanding the business problem behind a system—not simply implementing technology for its own sake.
 
 ### Developing
 
