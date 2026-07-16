@@ -24,7 +24,7 @@ Seeking entry-level/graduate tech-roles, freelance opportunities, and placements
 ## My Focus
 I'm actively expanding my technical portfolio and commercial experience through personal and industry projects across data analysis, machine learning, and full-stack web development.
 
-My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge, more specifically across the maintainability and scalability of systems, CI/CD, and cloud deployment.
+My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge, more specifically across the maintainability and scalability of systems, CI/CD, and cloud deployment. I also revisit and modernise existing projects to apply improved development practices and demonstrate how my technical understanding has progressed.
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
