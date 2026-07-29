@@ -5,6 +5,8 @@
 ## About me
 I'm a 1st-Class BSc Computer Science graduate with a keen interest in pairing full-stack development & applied machine learning to produce reliable software solutions which solve real business problems.
 
+[View my journey at Edge Hill University here](https://www.edgehill.ac.uk/person/matthew-tomlinson/student/)
+
 Seeking entry-level/graduate tech-roles, freelance opportunities, and placements nationwide.
 
 
