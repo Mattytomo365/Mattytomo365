@@ -19,7 +19,7 @@ Seeking entry-level/graduate tech-roles, freelance opportunities, and placements
 
 **Architecures & Practices:** Clean Architecture, Command Query Responsibility Segregation (CQRS), Agile development, Unit/Integration/E2E testing
 
-**Tools:** Git, RabbitMQ, Docker, JWT authentication
+**Tools:** Git, RabbitMQ, Docker, JWT authentication, Azure
 
 ---
 
