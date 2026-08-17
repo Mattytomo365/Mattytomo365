@@ -30,7 +30,7 @@ My current personal projects allow me to maintain my software development profic
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
-I am currently working for VuelaNova as a full-stack engineer, tasked with the end-to-end development of their website with regular stakeholder engagement, contributing towards an Agile team.
+I am currently working for VuelaNova as a full-stack engineer, tasked with the end-to-end development and testing of their website and Azure infrastructure with regular stakeholder engagement, contributing towards an Agile team.
 
 ---
 
@@ -40,9 +40,9 @@ Across my projects, I am particularly interested in understanding the business p
 
 ### Developing
 
-**Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. The project is currently going through a unit testing phase before I plan to add CI/CD practices using GitHub Actions. Please refer to my `Bartering-Platform` repository for further details.
+**Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Scalability is also achieved through the containerisation and orchestration of local dependencies and backend microservices. Next I plan to add CI/CD practices using GitHub Actions. Please refer to my `Bartering-Platform` repository for further details.
 
-**Hospitality Sales Forecasting Platform** (Currenly on hold): A capstone web application, .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning approaches analysed within my Comparative Forecasting Analysis to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
+**Hospitality Sales Forecasting Platform** (Currenly on hold): A web application which gave me my initial exposure to full-stack development. A .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning approaches analysed within my Comparative Forecasting Analysis to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
 
 ### Deployed
 
