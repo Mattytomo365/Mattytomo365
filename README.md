@@ -3,7 +3,7 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Mattytomo365.Mattytomo365)
 
 ## About me
-I'm a 1st-Class BSc Computer Science graduate with a keen interest in pairing full-stack development & applied machine learning to produce reliable software solutions which solve real business problems.
+I'm a 1st-Class BSc Computer Science graduate and full-stack developer intern with a keen interest in pairing full-stack development & applied machine learning to produce reliable software solutions which solve real business problems.
 
 [View my journey at Edge Hill University here](https://www.edgehill.ac.uk/person/matthew-tomlinson/student/)
 
@@ -26,11 +26,11 @@ Seeking entry-level/graduate tech-roles, freelance opportunities, and placements
 ## My Focus
 I'm actively expanding my technical portfolio and commercial experience through personal and industry projects across data analysis, machine learning, and full-stack web development.
 
-My current personal projects allow me to maintain my software development proficiency and help build my technical knowledge, more specifically across the maintainability and scalability of systems, CI/CD, and cloud deployment. I also revisit and modernise existing projects to apply improved development practices and demonstrate how my technical understanding has progressed.
+My personal and industry projects allow me to maintain my software development proficiency and help build my technical knowledge, more specifically across the maintainability and scalability of systems, CI/CD, and cloud deployment. I also revisit and modernise existing projects to apply improved development practices and demonstrate how my technical understanding has progressed.
 
 Gaining industry experience is also really important to me, I have completed a placement with HARTS (Hospital Arts, Liverpool) as a Junior Business Systems Developer. I developed a database management desktop application during this time to reduce the administrative workload for members of staff.
 
-I am currently working for VuelaNova as a full-stack engineer, tasked with the end-to-end development and testing of their website and Azure infrastructure with regular stakeholder engagement, contributing towards an Agile team.
+**I am currently working for VuelaNova as a full-stack engineer, tasked with the end-to-end development and maintenance and testing of their web application, Azure infrastructure, and hosting. I maintain regular stakeholder engagement, contributing towards a cross-functional Agile team.**
 
 ---
 
@@ -42,13 +42,13 @@ Across my projects, I am particularly interested in understanding the business p
 
 **Bartering Platform**: A full-stack .NET 8 microservices and Angular frontend application with a strong focus on modularity and loose coupling. The application serves as a platform for exchanging goods/products between users based on selected filters, showcasing architectural patterns such as CQRS and Clean Architecture, RabbitMQ messaging. Scalability is also achieved through the containerisation and orchestration of local dependencies and backend microservices. Next I plan to add CI/CD practices using GitHub Actions. Please refer to my `Bartering-Platform` repository for further details.
 
-**Hospitality Sales Forecasting Platform** (Currenly on hold): A web application which gave me my initial exposure to full-stack development. A .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning approaches analysed within my Comparative Forecasting Analysis to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
+**Hospitality Sales Forecasting Platform**: A web application which gave me my initial exposure to full-stack development. A .NET backend and Angular frontend, following Clean Architecture whilst leveraging machine learning approaches analysed within my Comparative Forecasting Analysis to accurately forecast hospitality sales. The goal is to improve staffing and inventory decisions. Please refer to my `Hospitality-Sales-Forecasting-Platform` repository for further details.
 
 ### Deployed
 
 **Comparative evaluation of forecasting approaches for hospitality sales**: Implementation and comparative evaluation of forecasting hospitality sales using SARIMAX, XGBoost, and Lasso. Models trained on cleaned & preprocessed data, using identical expanding-window time-aware evaluation protocols, with appropriate MAE, RMSE, and MASE metrics reported and compared alongside forecasting behaviour and redisudal diagnostics. Additional analyses include imputation strategy analysis, training optimisation analysis, and feature-contribution analysis. Please refer to my `Comparative-Forecasting-Analysis` repository for further details.
 
-**Desktop Planner**: Python & PyQt 5 project centred around turning a student's or professional's day into a focused checklist, syncing tasks & deadlines with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. This project has been recently modernised and re-branded with a more advanced UI and less student-specific but still clearly focused. Please refer to my `Desktop-Planner` repository for further details.
+**Desktop Planner**: Python & PyQt 5 project centred around turning a student's or professional's day into a focused checklist, syncing tasks & deadlines with the user's Google Calendar. Tasks can be added, modified, deleted, categorised (module specific or general) and checked off through a simple, navigable interface featuring a prominent day-to-day checklist. This project has been modernised and re-branded with a more advanced UI and less student-specific but still clearly focused. Please refer to my `Desktop-Planner` repository for further details.
 
 **Database Management System**: Built during my Junior Business Systems Developer role at Hospital Arts (HARTS), Liverpool: Python & Tkinter desktop application centralising admin data, reducing the manual workload for members of staff. Please refer to my `Database-Management-System` repository for further details.
 
